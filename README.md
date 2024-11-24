@@ -87,3 +87,4 @@ Skills: `Teamwork` `Problem solving` `Project management` `Software development`
       <img src="https://github-profile-trophy.vercel.app/?username=Liu-Suica&layout=compact&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15"/>
     </a> 
   </div>
+<img align="center" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
