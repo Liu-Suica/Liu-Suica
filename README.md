@@ -74,3 +74,16 @@ Skills: `Teamwork` `Problem solving` `Project management` `Software development`
 <div align="right">
   <img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" width="100">
 </div>
+### 🔥 Streak Stats
+  <div align="center">
+      <div style="display:flex;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu-Suica&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> 
+        <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width = 220px />
+      </div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Liu-Suica&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </a>
+    <a href="https://github-profile-trophy.vercel.app">
+      <img src="https://github-profile-trophy.vercel.app/?username=Liu-Suica&layout=compact&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+    </a> 
+  </div>
